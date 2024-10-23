@@ -1,11 +1,12 @@
 {
   "name": "html2pdf.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork of html2pdf.js with support of typescript",
   "main": "dist/html2pdf.js",
   "files": [
     "/src",
-    "/dist"
+    "/dist",
+    "index.d.ts"
   ],
   "types": "index.d.ts",
   "repository": "git@github.com:eKoopmans/html2pdf.js.git",
