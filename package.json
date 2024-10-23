@@ -1,12 +1,13 @@
 {
   "name": "html2pdf.js",
-  "version": "0.10.2",
-  "description": "Client-side HTML-to-PDF rendering using pure JS",
+  "version": "1.0.0",
+  "description": "A fork of html2pdf.js with support of typescript",
   "main": "dist/html2pdf.js",
   "files": [
     "/src",
     "/dist"
   ],
+  "types": "index.d.ts",
   "repository": "git@github.com:eKoopmans/html2pdf.js.git",
   "keywords": [
     "javascript",
@@ -16,9 +17,9 @@
     "canvas"
   ],
   "author": {
-    "name": "Erik Koopmans",
-    "email": "erik@erik-koopmans.com",
-    "url": "https://www.erik-koopmans.com"
+    "name": "Faris Alkodri",
+    "email": "farisalkodri@gmail.com",
+    "url": "https://linktr.ee/alkodrimuhfaris"
   },
   "license": "MIT",
   "bugs": {
