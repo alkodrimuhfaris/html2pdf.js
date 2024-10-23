@@ -1,6 +1,6 @@
 {
   "name": "html2pdf.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fork of html2pdf.js with support of typescript",
   "main": "dist/html2pdf.js",
   "files": [
