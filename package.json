@@ -20,13 +20,13 @@
   "author": {
     "name": "Faris Alkodri",
     "email": "farisalkodri@gmail.com",
-    "url": "https://linktr.ee/alkodrimuhfaris"
+    "url": "https://github.com/alkodrimuhfaris"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eKoopmans/html2pdf.js/issues"
   },
-  "homepage": "https://ekoopmans.github.io/html2pdf.js/",
+  "homepage": "https://github.com/alkodrimuhfaris/html2pdf.js/",
   "dependencies": {
     "es6-promise": "^4.2.5",
     "html2canvas": "^1.0.0",
